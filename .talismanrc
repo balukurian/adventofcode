@@ -1,0 +1,13 @@
+fileignoreconfig:
+- filename: resources/day6input
+  checksum: 0eb08615bd5ac5dbdf6d26f96cab5638aa6ff28d8fa1c24baa8d5614469ae737
+- filename: test/adventofcode/passport/parser_test.clj
+  checksum: 4dcd6e0b663536a496ab210d74ee4444ebd4ece2ea5872ba3b455a2394d76fc2
+- filename: src/adventofcode/day4.clj
+  checksum: fb3571813ff6681de53261243f5ddb61673f72197d3dd021d754fb9d1c3b052a
+- filename: src/adventofcode/password/validator.clj
+  checksum: b90074cbdd40ffe9ab9b73efbaa04b6fd3372c2e0593b66dcdd41721945e5ec0
+- filename: src/adventofcode/passport/validator.clj
+  checksum: 73f908816b7c52bb99f4fa94728e6fea65ffd3f4870a9ce9d6f69cc101430942
+- filename: test/adventofcode/passport/validator_test.clj
+  checksum: 16acc5a06931bac9472a7b612ebbf18da99e85c605890ab633327c6433f76915
